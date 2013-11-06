@@ -273,11 +273,6 @@ li > .m1-list .m1-text{
   background-repeat: repeat;
 }
 
-.m1-background-2{
-  background-color: rgb(210,210,210);
-  background-image: none;
-}
-
 .m1-font-1{
   color: rgb(91,100,118);
   font-family: Helvetica;
@@ -290,13 +285,13 @@ li > .m1-list .m1-text{
   text-shadow: rgb(255,255,255) 1px 1px 1px;
 }
 
-.m1-list.m1-rounded-list > li.m1-background-4{
+.m1-list.m1-rounded-list > li.m1-background-3{
   background-color: rgb(255,255,255);
   background-image: none;
 }
 
 
-  .m1-list.m1-rounded-list > li.m1-clicked.m1-highlight.m1-background-5,.m1-list.m1-rounded-list > li.m1-unclicked.m1-highlight.m1-background-6
+  .m1-list.m1-rounded-list > li.m1-clicked.m1-highlight.m1-background-4,.m1-list.m1-rounded-list > li.m1-unclicked.m1-highlight.m1-background-5
   {
   background-color: rgba(0,0,0,0);
   background-image: 
@@ -316,7 +311,7 @@ li > .m1-list .m1-text{
 }
 
 
-  .m1-list.m1-plain-list > .m1-list-footer.m1-background-7,.m1-list.m1-plain-list > .m1-list-header.m1-background-3
+  .m1-list.m1-plain-list > .m1-list-footer.m1-background-6,.m1-list.m1-plain-list > .m1-list-header.m1-background-2
   {
   background-color: rgba(0,0,0,0);
   background-image: 
@@ -339,7 +334,7 @@ li > .m1-list .m1-text{
   text-decoration: none;
 }
 
-.m1-background-8{
+.m1-background-7{
   background-color: rgba(0,0,0,0);
   background-image: 
     -webkit-gradient(linear, 50.0% 0.0, 50.0% 100.0%, from(rgb(179,190,206)), to(rgb(109,131,161)), color-stop(0.499,rgb(136,154,178)), color-stop(0.501,rgb(129,148,173)));
@@ -433,11 +428,6 @@ li > .m1-list .m1-text{
   text-decoration: none;
 }
 
-.m1-background-9{
-  background-color: rgb(139,157,182);
-  background-image: none;
-}
-
 .m1-preload-images-1{
   background-image: url(res/images/pushButton1.png), url(res/images/pushButton2.png);
   background-position: -10000px -10000px;
@@ -484,7 +474,7 @@ body{
   width: 0px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listFooter1-label{
+#m1-OCSFixtureSelectionGuide-listFooter1-label{
   border-top-color: transparent;
   border-width: 1px 0px 0px 0px;
   height: 44px;
@@ -495,7 +485,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listFooter1{
+#m1-OCSFixtureSelectionGuide-listFooter1{
   height: 44px;
   left: 0px;
   line-height: 18px;
@@ -504,7 +494,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-text6{
+#m1-OCSFixtureSelectionGuide-text6{
   height: 23px;
   left: 18px;
   line-height: 23px;
@@ -513,7 +503,7 @@ body{
   width: 160px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listItem5-inner-div{
+#m1-OCSFixtureSelectionGuide-listItem5-inner-div{
   height: 44px;
   left: -10px;
   line-height: 44px;
@@ -522,7 +512,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listItem5{
+#m1-OCSFixtureSelectionGuide-listItem5{
   height: 44px;
   left: 9px;
   line-height: 44px;
@@ -532,7 +522,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-text1{
+#m1-OCSFixtureSelectionGuide-text1{
   height: 23px;
   left: 18px;
   line-height: 23px;
@@ -541,7 +531,7 @@ body{
   width: 207px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-accessoryImage1{
+#m1-OCSFixtureSelectionGuide-accessoryImage1{
   height: 13px;
   line-height: 13px;
   margin-left: auto;
@@ -550,7 +540,7 @@ body{
   width: 9px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listItem1-inner-div{
+#m1-OCSFixtureSelectionGuide-listItem1-inner-div{
   height: 44px;
   left: -10px;
   line-height: 44px;
@@ -559,7 +549,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listItem1{
+#m1-OCSFixtureSelectionGuide-listItem1{
   height: 44px;
   left: 9px;
   line-height: 44px;
@@ -569,7 +559,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listHeader1-label{
+#m1-OCSFixtureSelectionGuide-listHeader1-label{
   border-top-color: transparent;
   border-width: 1px 0px 0px 0px;
   height: 45px;
@@ -580,7 +570,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-listHeader1{
+#m1-OCSFixtureSelectionGuide-listHeader1{
   height: 45px;
   left: 0px;
   line-height: 23px;
@@ -589,7 +579,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-list1{
+#m1-OCSFixtureSelectionGuide-list1{
   height: 177px;
   left: 0px;
   line-height: 177px;
@@ -598,7 +588,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-Gear1{
+#m1-OCSFixtureSelectionGuide-Gear1{
   height: 20px;
   left: 732px;
   line-height: 20px;
@@ -606,7 +596,7 @@ body{
   width: 20px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-text2{
+#m1-OCSFixtureSelectionGuide-text2{
   height: 25px;
   left: 241px;
   line-height: 25px;
@@ -615,7 +605,7 @@ body{
   width: 285px;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-navigation1{
+#m1-OCSFixtureSelectionGuide-navigation1{
   height: 43px;
   left: 0px;
   line-height: 43px;
@@ -624,7 +614,7 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuideiOS7Test-image1{
+#m1-OCSFixtureSelectionGuide-image1{
   -webkit-border-image: url(images/OCS-Final-Logo-Large2009.png) 1 1 1 1 stretch stretch;
   border-width: 1px 1px 1px 1px;
   height: 171px;
@@ -38855,156 +38845,6 @@ body{
   width: auto;
 }
 
-#m1-OCSFixtureSelectionGuide-listFooter1-label{
-  border-top-color: transparent;
-  border-width: 1px 0px 0px 0px;
-  height: 44px;
-  left: 0px;
-  line-height: 18px;
-  margin-right: 0px;
-  top: 9px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-listFooter1{
-  height: 44px;
-  left: 0px;
-  line-height: 18px;
-  margin-right: 0px;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-text6{
-  height: 23px;
-  left: 18px;
-  line-height: 23px;
-  text-align: left;
-  top: 10px;
-  width: 160px;
-}
-
-#m1-OCSFixtureSelectionGuide-listItem5-inner-div{
-  height: 44px;
-  left: -10px;
-  line-height: 44px;
-  margin-right: -20px;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-listItem5{
-  height: 44px;
-  left: 9px;
-  line-height: 44px;
-  margin-right: 18px;
-  overflow: visible;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-text1{
-  height: 23px;
-  left: 18px;
-  line-height: 23px;
-  text-align: left;
-  top: -3px;
-  width: 207px;
-}
-
-#m1-OCSFixtureSelectionGuide-accessoryImage1{
-  height: 13px;
-  line-height: 13px;
-  margin-left: auto;
-  right: 20px;
-  top: 15px;
-  width: 9px;
-}
-
-#m1-OCSFixtureSelectionGuide-listItem1-inner-div{
-  height: 44px;
-  left: -10px;
-  line-height: 44px;
-  margin-right: -20px;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-listItem1{
-  height: 44px;
-  left: 9px;
-  line-height: 44px;
-  margin-right: 18px;
-  overflow: visible;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-listHeader1-label{
-  border-top-color: transparent;
-  border-width: 1px 0px 0px 0px;
-  height: 45px;
-  left: 8px;
-  line-height: 23px;
-  margin-right: 0px;
-  top: 14px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-listHeader1{
-  height: 45px;
-  left: 0px;
-  line-height: 23px;
-  margin-right: 0px;
-  top: 0px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-list1{
-  height: 177px;
-  left: 0px;
-  line-height: 177px;
-  margin-right: 0px;
-  top: 103px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-Gear1{
-  height: 20px;
-  left: 732px;
-  line-height: 20px;
-  top: -13px;
-  width: 20px;
-}
-
-#m1-OCSFixtureSelectionGuide-text2{
-  height: 25px;
-  left: 241px;
-  line-height: 25px;
-  text-align: center;
-  top: 9px;
-  width: 285px;
-}
-
-#m1-OCSFixtureSelectionGuide-navigation1{
-  height: 43px;
-  left: 0px;
-  line-height: 43px;
-  margin-right: 0px;
-  top: -171px;
-  width: auto;
-}
-
-#m1-OCSFixtureSelectionGuide-image1{
-  -webkit-border-image: url(images/OCS-Final-Logo-Large2009.png) 1 1 1 1 stretch stretch;
-  border-width: 1px 1px 1px 1px;
-  height: 171px;
-  left: 225px;
-  line-height: 169px;
-  top: 86px;
-  width: 318px;
-}
-
 #m1-FixtureTypes-push1{
   border-width: 5px 5px 5px 5px;
   height: 30px;
@@ -40429,10 +40269,6 @@ body{
 }
 
 #m1-Fixtures1{
-  display: none;
-}
-
-#m1-OCSFixtureSelectionGuide{
   display: none;
 }
 
